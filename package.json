@@ -1,0 +1,22 @@
+{
+  "name": "kk-payment-unicom",
+  "version": "0.1.0",
+  "description": "Node.js verification library for unicom in app purchase receipts.",
+  "private" : false,
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/huangqingcheng/kk-payment-unicom.git"
+  },
+  "keywords": [
+    "node",
+    "payment",
+    "unicom"
+  ],
+  "dependencies": {
+    "xmldom" : "latest"
+  }
+}
